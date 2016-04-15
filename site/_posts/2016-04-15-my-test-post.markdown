@@ -3,5 +3,4 @@ layout: post
 title:  "Welcome to the Continuous Delivery demonstration!"
 categories: demo
 ---
-This is a totally new wiki page...
-This is an example post that you can make using Markdown to demonstrate a website being statically generated and deployed!
+This is a test - This is an example post that you can make using Markdown to demonstrate a website being statically generated and deployed!
